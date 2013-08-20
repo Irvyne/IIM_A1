@@ -70,10 +70,6 @@ I download [Notepad++][8]
 [6]:  http://panic.com/coda/
 [7]:  http://www.adobe.com/en/products/dreamweaver.html
 [8]:  http://notepad-plus-plus.org/
-[9]:
-[10]:
-[11]:
-[12]:
 
 [101]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/wampserver.png
 [102]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/mamp.png
