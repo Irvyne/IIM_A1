@@ -16,9 +16,13 @@ Warning: Use WampServer and Skype in parallel may cause WampServer to no work pr
 
 ### I'm on OSX (MAMP: Mac + Apache + MySQL + PHP)
 
+![ScreenShot][102]
+
 I download [MAMP][2]
 
 ### I'm on Linux *(I hope Debian for you !)* (LAMP: Linux + Apache + MySQL + PHP)
+
+![ScreenShot][103]
 
 +10 pts
 
@@ -28,23 +32,33 @@ I download [MAMP][2]
 
 ### JetBrains PhpStorm [NON FREE] - Recommended
 
+![ScreenShot][104]
+
 This IDE require a license. Fortunately for you, the school (IIM) have a licence to provide to its students. To require this licence, you may for the moment contact Thibaud BARDIN at thibaud.bardin.iim@gmail.com
 
 I download [PhpStorm][4]
 
 ### Sublime Text [NON FREE]
 
+![ScreenShot][105]
+
 I download [Sublime Text][5]
 
 ### Coda [NON FREE]
+
+![ScreenShot][106]
 
 I download [Coda][6]
 
 ### Dreamweaver [NON FREE] - Not Recommended !
 
+![ScreenShot][107]
+
 I download [Dreamweaver][7]
 
 ### Notepad++ [FREE] - Not Recommended !
+
+![ScreenShot][108]
 
 I download [Notepad++][8]
 
@@ -62,3 +76,10 @@ I download [Notepad++][8]
 [12]:
 
 [101]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/wampserver.png
+[102]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/mamp.png
+[103]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/lamp.png
+[104]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/phpstorm.png
+[105]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/sublimetext.png
+[106]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/coda.png
+[107]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/dreamweaver.png
+[108]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/notepad++.png
