@@ -1,7 +1,10 @@
 Installing an [IDE][1]
 ==================================================
 
-### JetBrains PhpStorm [NON FREE] - Recommended
+### JetBrains PhpStorm
+
+* Non Free
+* Mandatory (Recommended++)!
 
 ![ScreenShot][102]
 
@@ -9,25 +12,37 @@ This IDE require a license. Fortunately for you, the school (IIM) have a licence
 
 I download [PhpStorm][2]
 
-### Sublime Text [NON FREE]
+### Sublime Text
+
+* Non Free
+* Recommended!
 
 ![ScreenShot][103]
 
 I download [Sublime Text][3]
 
-### Coda [NON FREE]
+### Coda
+
+* Non Free
+* Recommended (or not)!
 
 ![ScreenShot][104]
 
 I download [Coda][4]
 
-### Dreamweaver [NON FREE] - Not Recommended !
+### Dreamweaver
+
+* Non Free
+* Not Recommended!
 
 ![ScreenShot][105]
 
 I download [Dreamweaver][5]
 
-### Notepad++ [FREE] - Not Recommended !
+### Notepad++
+
+* Non Free
+* Not Recommended at all (I kill people who use it)!
 
 ![ScreenShot][106]
 
