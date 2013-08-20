@@ -12,7 +12,7 @@ Welcome to the IIM A1 Repository.
 
 I download [WampServer][1]
 
-Warning: Use WampServer and Skype in parallel may cause WampServer to no work properly
+Warning: Using WampServer and Skype in parallel may cause WampServer to no work properly
 
 ### I'm on OSX (MAMP: Mac + Apache + MySQL + PHP)
 
@@ -75,11 +75,11 @@ I download [Notepad++][8]
 [11]:
 [12]:
 
-[101]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/wampserver.png
-[102]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/mamp.png
-[103]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/lamp.png
-[104]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/phpstorm.png
-[105]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/sublimetext.png
-[106]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/coda.png
-[107]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/dreamweaver.png
-[108]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/notepad++.png
+[101]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/wampserver.png
+[102]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/mamp.png
+[103]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/lamp.png
+[104]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/phpstorm.png
+[105]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/sublimetext.png
+[106]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/coda.png
+[107]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/dreamweaver.png
+[108]: https://raw.github.com/Irvyne/IIM_A1/master/Resources/img/notepad++.png
