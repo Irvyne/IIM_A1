@@ -8,6 +8,8 @@ Welcome to the IIM A1 Repository.
 
 ### I'm on Windows (WAMP: Windows + Apache + MySQL + PHP)
 
+![ScreenShot][101]
+
 I download [WampServer][1]
 
 Warning: Use WampServer and Skype in parallel may cause WampServer to no work properly
@@ -21,10 +23,10 @@ I download [MAMP][2]
 +10 pts
 
 
-1) Installing the Mandatory - Part 2 (an [IDE][3])
+2) Installing the Mandatory - Part 2 (an [IDE][3])
 -----------------------------------------------------
 
-### JetBrains PhpStorm [NON FREE] (Recommended)
+### JetBrains PhpStorm [NON FREE] - Recommended
 
 This IDE require a license. Fortunately for you, the school (IIM) have a licence to provide to its students. To require this licence, you may for the moment contact Thibaud BARDIN at thibaud.bardin.iim@gmail.com
 
@@ -38,11 +40,11 @@ I download [Sublime Text][5]
 
 I download [Coda][6]
 
-### Dreamweaver [NON FREE] (Not Recommended !)
+### Dreamweaver [NON FREE] - Not Recommended !
 
 I download [Dreamweaver][7]
 
-### Notepad++ [FREE] (Not Recommended !)
+### Notepad++ [FREE] - Not Recommended !
 
 I download [Notepad++][8]
 
@@ -58,3 +60,5 @@ I download [Notepad++][8]
 [10]:
 [11]:
 [12]:
+
+[101]: https://raw.github.com/Irvyne/IIM_A1/master/assets/img/wampserver.png
